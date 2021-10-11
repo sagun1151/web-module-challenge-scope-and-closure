@@ -86,7 +86,7 @@ dansRoll();
 
 a. Where is closure used in this code? How can you tell?
 
-when it returns a function on line 71
+when uses the parameter name inside the second function
 
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
 
