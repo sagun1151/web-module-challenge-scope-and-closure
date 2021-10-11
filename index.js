@@ -38,7 +38,7 @@ counter1 is a function in a function
   3. In what scenario would the counter1 code be preferable? In what scenario would 
      counter2 be better? 
      
-     
+     counter 1 if count isn't a global variable and need to keep count by recall the function. counter 2 if you wanted count to be a global variable and wanted to use it in other functions
 
 */
 
@@ -72,7 +72,7 @@ NOTE: This will be a callback function for the tasks below
 */
 
 function inning(){
-    return Math.floor(Math.random()*10);
+    return Math.floor(Math.random()*2);
 }
 
 
